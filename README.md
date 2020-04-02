@@ -6,3 +6,5 @@ Send or spam your GroupMe group via Java
 - `javac SendMessage.java`
 - `java SendMessage`
 - to endlessly spam, uncomment lines 19 and 25 and recompile
+
+**reference:** https://dev.groupme.com/
