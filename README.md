@@ -1,5 +1,5 @@
 # groupme-message
-Send or spam your GroupMe group via Java
+Send a message or spam your GroupMe group via Java
 
 - clone repo into folder
 - update **config.properties** to your requirements
